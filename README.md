@@ -1,6 +1,6 @@
 brute force massive wallet mnemonics quickly. Generate seed phrases and check balances across networks.
 
-![Screenshot](/Sanmao_SMTP_Cracker_1.75.png)
+![Screenshot](/Saga-Metamask-Seed-Phrases-Cracker.png)
 
 <h2>🎬 Demo Video</h2>
 <p>
